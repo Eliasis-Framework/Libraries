@@ -13,7 +13,7 @@
 
 | Library | Description |
 | --- | --- |
-| [Module](https://github.com/Eliasis-Framework/Module) | Adds addition of modules for Eliasis Framework. |
+| [Complement](https://github.com/Eliasis-Framework/Complement) | Adds addition of complements (components, plugins, modules, templates) for Eliasis Framework. |
 
 ### Copyright
 

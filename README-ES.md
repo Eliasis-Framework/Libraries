@@ -4,16 +4,16 @@
 
 ---
 
-- [Librerías disponibles](#librerías-disponibles)
+- [Bibliotecas disponibles](#bibliotecas-disponibles)
 - [Copyright](#copyright)
 
 ---
 
-## Librerías disponibles
+## Bibliotecas disponibles
 
 | Librería | Descripción |
 | --- | --- |
-| [Module](https://github.com/Eliasis-Framework/Module) | Agrega la adición de módulos para Eliasis Framework. |
+| [Complement](https://github.com/Eliasis-Framework/Complement) | Agrega la adición de complementos (componentes, plugins, módulos, plantillas) para Eliasis Framework. |
 
 ### Copyright
 
